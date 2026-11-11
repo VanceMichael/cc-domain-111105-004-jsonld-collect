@@ -1,0 +1,10 @@
+{
+  "https://vocab.invalid/redirect/context": {
+    "status": 302,
+    "location": "https://vocab.invalid/v2/context"
+  },
+  "https://vocab.invalid/v2/context": {
+    "status": 200,
+    "file": "context-equipment.jsonld"
+  }
+}

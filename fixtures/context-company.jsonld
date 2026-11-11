@@ -1,0 +1,6 @@
+{
+  "@context": {
+    "@vocab": "https://company.invalid/vocab#",
+    "name": "https://company.invalid/vocab#registeredName"
+  }
+}

@@ -1,0 +1,20 @@
+{
+  "@context": "https://vocab.invalid/redirect/context",
+  "@graph": [
+    {
+      "@id": "_:device",
+      "@type": "Equipment",
+      "name": {
+        "@value": "合成压缩机",
+        "@language": "zh"
+      },
+      "model": "Q-01",
+      "maker": "https://maker.invalid/one"
+    },
+    {
+      "@id": "https://maker.invalid/one",
+      "@type": "Company",
+      "name": "合成制造方"
+    }
+  ]
+}

@@ -1,0 +1,32 @@
+[
+  {
+    "file": "devices.jsonld",
+    "bytes": 410,
+    "sha256": "cb68e846f326e290d54452e4b3e21f9b8af22c4b73e99a6c1adc60864660dcb6"
+  },
+  {
+    "file": "context-equipment.jsonld",
+    "bytes": 238,
+    "sha256": "80fb94b762e00e37c43114610935f1c2d1a2d65efd76f6a2a4ba10515ac4577e"
+  },
+  {
+    "file": "context-company.jsonld",
+    "bytes": 131,
+    "sha256": "f2855ef03f9fadfd9fa8ea78f373d934040d77e8b9a6bca0bbe3e86f3cfe355d"
+  },
+  {
+    "file": "embedded.html",
+    "bytes": 265,
+    "sha256": "7831b07ae346ab066c946f67e4637000ccbe66051aff1b6fac74e198f6005f0f"
+  },
+  {
+    "file": "context-responses.json",
+    "bytes": 227,
+    "sha256": "cfecdc149fc1b3cf62d639419f39fa6f3c693b14797af3dc62246df041337d89"
+  },
+  {
+    "file": "context-cycle.jsonld",
+    "bytes": 48,
+    "sha256": "27567504cbb5b0f1b3d191f48df5e2c254c2fd1764e0204867713cf533467515"
+  }
+]

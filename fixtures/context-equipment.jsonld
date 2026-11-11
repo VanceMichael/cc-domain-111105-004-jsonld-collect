@@ -1,0 +1,12 @@
+{
+  "@context": {
+    "@base": "https://catalog.invalid/",
+    "@vocab": "./equipment#",
+    "name": "./equipment#label",
+    "model": "./equipment#model",
+    "maker": {
+      "@id": "./equipment#maker",
+      "@type": "@id"
+    }
+  }
+}
